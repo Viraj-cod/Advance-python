@@ -13,4 +13,4 @@ print(oper(add,m,n))
 
 ave = lambda x,y:f'Average of two numbers:{(x+y)/2}'
 print(ave(m,n))
-
+#using git saving in local 
